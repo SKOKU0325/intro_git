@@ -1,4 +1,6 @@
 Practice Git
 Practicing basic workflow
+hoge
+test
 - git add
 - git commit
